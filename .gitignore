@@ -1,0 +1,12 @@
+node_modules/
+SQuAD-explorer/
+.publish/
+bower_components/
+*.DS_Store
+codalab-cli/
+
+development.json
+
+saved.html
+
+results*.json
